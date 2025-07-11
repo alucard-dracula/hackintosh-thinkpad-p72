@@ -1,6 +1,6 @@
 # hackintosh-thinkpad-p72
-**opencore 1.04**  
-**support macOS Sequoia 15.0 - 15.4**  
+**opencore 1.05**  
+**support macOS Sequoia 15.0 - 15.5**  
 
 **处理器名称:** HexaCore Intel Xeon E-2186M, 4400 MHz (44 x 100)  
 **主板名称:** Lenovo ThinkPad P72  
